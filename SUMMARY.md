@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [New Script (v1beta2)](first.md)
