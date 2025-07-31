@@ -9,7 +9,7 @@ The script provides selectors for choosing the project, application, and environ
 {% hint style="warning" %}
 ### Who can perform Bulk Edits
 User needs to have [permissions](../global-configurations/authorization/user-access.md#grant-specific-permissions) to apps and environments to edit their configs.
-{% endtab %}
+{% endhint %}
 
 ### Tree Structure of the Bulk Edit Script
 
