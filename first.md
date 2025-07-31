@@ -7,7 +7,7 @@
 The script provides selectors for choosing the project, application, and environment within which you wish to edit the configs (can be used in combo). Moreover, you now have granular control over the update and delete operations you wish to perform on the configs.
 
 {% hint style="warning" %}
-### Who can perform Bulk Edits
+### Who Can Perform Bulk Edits?
 User needs to have [permissions](../global-configurations/authorization/user-access.md#grant-specific-permissions) to apps and environments to edit their configs.
 {% endhint %}
 
